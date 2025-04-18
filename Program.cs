@@ -16,7 +16,6 @@ class Program
         Console.WriteLine("0 - Sair");
 
         short option = short.Parse(Console.ReadLine());
-
         switch (option)
         {
             case 1:
