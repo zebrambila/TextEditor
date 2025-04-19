@@ -1,5 +1,8 @@
 ﻿using System;
 
+/// <summary>
+/// Estes metodos fazem a manipulação de texto em arquivo.
+/// </summary>
 class Program
 {
     static void Main(string[] args)
